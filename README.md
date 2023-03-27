@@ -15,4 +15,5 @@ As seguintes distribuições foram contempladas nesse projeto:
 - Distribuição Log-normal;
 - Distribuição Binomial.
 
+
 As definições de cada distribuição podem ser encontradas no artigo que publiquei no Medium: https://medium.com/@diepoemas/principais-tipos-de-distribui%C3%A7%C3%B5es-de-probabilidade-um-guia-introdut%C3%B3rio-6ca04f5fcbdc
