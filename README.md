@@ -4,6 +4,7 @@ Este repositório contém o notebook com os scripts Python para geração de dad
 
 Se você utilizar o Google Colab, basta abrir o notebook e executar os blocos de códigos.
 
+
 As seguintes distribuições foram contempladas nesse projeto:
 
 - Distribuição Normal;
